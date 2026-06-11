@@ -29,7 +29,7 @@ The interface is split into clear visual components to keep your streaming organ
 * **Portable Library Blueprints:** Save or restore your custom channel merges, names, and EPG links as a lightweight file without ever exposing your private stream passwords.
 * **Bulk Layout Editing:** Use the interactive edit tool to instantly filter, select, and manage favourites or custom category lists simultaneously.Suffixes
 
-<img width="1918" height="1079" alt="Screenshot 2026-06-10 080329" src="https://github.com/user-attachments/assets/f3592af4-5131-461b-bd1e-50317bfb2445" />
+<img width="1918" height="1079" alt="image2" src="https://github.com/user-attachments/assets/d946c022-9cb0-4836-b9ff-69b91fa5912d" />
 
 ## How to Use & Application Controls
 
