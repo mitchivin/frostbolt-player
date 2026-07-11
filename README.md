@@ -31,7 +31,7 @@ Live / download at [frostbolt.xyz](https://frostbolt.xyz/).
 - Electron, React, TypeScript, Vite
 - hls.js / mpegts.js for in-app playback
 - Local VLC transcode path for unsupported codecs
-- Windows installer and portable builds
+- Windows installer
 
 ## Credits
 
