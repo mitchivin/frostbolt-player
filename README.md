@@ -43,4 +43,4 @@ Frostbolt is a media player. It does not host, provide, or resell channels or pl
 
 ## License
 
-Public beta. Downloads at [frostbolt.xyz](https://frostbolt.xyz/).
+Public Preview. Downloads at [frostbolt.xyz](https://frostbolt.xyz/).
