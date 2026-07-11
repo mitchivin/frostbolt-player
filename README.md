@@ -7,9 +7,9 @@ Live / download at [frostbolt.xyz](https://frostbolt.xyz/).
 **Public beta:** Xtream login only.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73a7acc2-5b66-482e-85f8-d22817645c57" />
+  <img width="1920" height="1080" alt="frostBolt1" src="https://github.com/user-attachments/assets/8485ae6f-3489-4235-8737-c38373b50b1e" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/d946c022-9cb0-4836-b9ff-69b91fa5912d" />
+  <img width="1919" height="1079" alt="Screenshot 2026-07-11 174233" src="https://github.com/user-attachments/assets/9b8242e0-5f8e-43f7-b023-3fb113df2ba5" />
 </p>
 
 ## Features
