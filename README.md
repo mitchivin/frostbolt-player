@@ -7,9 +7,9 @@ Live / download at [frostbolt.xyz](https://frostbolt.xyz/).
 **Public beta:** Xtream login only.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73a7acc2-5b66-482e-85f8-d22817645c57" alt="Frostbolt IPTV main guide with EPG grid and video player" width="480" />
+  <img src="https://github.com/user-attachments/assets/73a7acc2-5b66-482e-85f8-d22817645c57" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/d946c022-9cb0-4836-b9ff-69b91fa5912d" alt="Frostbolt IPTV desktop player interface" width="480" />
+  <img src="https://github.com/user-attachments/assets/d946c022-9cb0-4836-b9ff-69b91fa5912d" />
 </p>
 
 ## Features
