@@ -8,8 +8,6 @@ Live / download at [frostbolt.xyz](https://frostbolt.xyz/).
 
 <p align="center">
   <img width="1920" height="1080" alt="frostBolt1" src="https://github.com/user-attachments/assets/8485ae6f-3489-4235-8737-c38373b50b1e" />
-  &nbsp;
-  <img width="1919" height="1079" alt="Screenshot 2026-07-11 174233" src="https://github.com/user-attachments/assets/9b8242e0-5f8e-43f7-b023-3fb113df2ba5" />
 </p>
 
 ## Features
@@ -25,6 +23,10 @@ Live / download at [frostbolt.xyz](https://frostbolt.xyz/).
 - Bulk edit for favourites and custom lists
 - Frostbolt (blue) and Regrowth (green) themes
 - HLS playback with VLC fallback when Chromium cannot decode the stream
+
+<p align="center">
+  <img width="1919" height="1079" alt="Screenshot 2026-07-11 174233" src="https://github.com/user-attachments/assets/9b8242e0-5f8e-43f7-b023-3fb113df2ba5" />
+</p>
 
 ## Stack
 
