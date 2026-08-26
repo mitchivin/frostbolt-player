@@ -7,7 +7,7 @@ Live / download at [frostbolt.xyz](https://frostbolt.xyz/).
 **Public beta:** Xtream login only.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a2b42a1a-7e7d-4436-ab0c-12fab616969b" alt="Frostbolt Main Guide" />
+<img width="1536" height="864" alt="main-guide" src="https://github.com/user-attachments/assets/e524e40a-f458-4f9f-b785-e03dfe77618f" alt="Frostbolt Main Guide" />
 </p>
 
 ## Features
@@ -25,7 +25,7 @@ Live / download at [frostbolt.xyz](https://frostbolt.xyz/).
 - HLS playback with VLC fallback when Chromium cannot decode the stream
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/58b2bc7d-0531-4e01-b60b-9845e37c9f39" alt="Frostbolt Full Screen OSD" />
+<img width="1536" height="864" alt="on-screen-display" src="https://github.com/user-attachments/assets/37ce0997-d969-4a7f-8533-d21ab6120df3" alt="Frostbolt Full Screen OSD" />
 </p>
 
 ## Stack
