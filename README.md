@@ -1,6 +1,6 @@
 # Frostbolt Player
 
-A desktop IPTV player for Windows. Browse your channels, see what's on, and watch from one clear TV guide.
+A desktop IPTV player for Windows. Browse your channels, see what's on, and watch from the TV guide.
 
 **[Download for Windows](https://github.com/mitchivin/frostbolt-player/releases/latest) · [Website](https://frostbolt.xyz/)**
 
@@ -8,12 +8,12 @@ Currently in public preview. Connect your own Xtream-compatible provider to get 
 
 ![Frostbolt Player 1.4.6 showing the programme guide and demo playback](assets/main-guide.webp)
 
-## Made for everyday watching
+## Features
 
-- **A guide built around your channels.** Browse live TV, 24/7 channels and live events.
-- **One row, multiple sources.** Keep matching feeds together, switch sources, and recover automatically when a feed fails.
-- **Your playlist, organised.** Choose what appears in your guide, rename channels, and manage favourites and custom lists.
-- **Programme information that fits.** Choose guide data and adjust timings when a schedule is out of sync.
+- **TV guide.** Browse live TV, 24/7 channels and live events.
+- **Multiple sources per channel.** Keep matching feeds together, switch sources, and recover automatically when a feed fails.
+- **Playlist management.** Choose what appears in your guide, rename channels, and manage favourites and custom lists.
+- **Programme information.** Choose guide data and adjust timings when a schedule is out of sync.
 - **Channel health checks.** Scan your list to find working and unavailable feeds.
 - **Fullscreen controls.** See now-and-next programmes and switch channels or sources without leaving the video.
 - **Two dark themes.** Frostbolt and Regrowth.
