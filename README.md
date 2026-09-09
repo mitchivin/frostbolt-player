@@ -1,48 +1,38 @@
-# Frostbolt IPTV
+# Frostbolt Player
 
-A desktop IPTV player for Windows. Built for large Xtream playlists, a clean TV guide, and real control over EPG and backup streams. You bring a real provider.
+A desktop IPTV player for Windows. Browse your channels, see what's on, and watch from one clear TV guide.
 
-[frostbolt.xyz](https://frostbolt.xyz/)
+**[Download for Windows](https://github.com/mitchivin/frostbolt-player/releases/latest) · [Website](https://frostbolt.xyz/)**
 
-Public beta. Xtream login only for now.
+Currently in public preview. Connect your own Xtream-compatible provider to get started.
 
-<p align="center">
-<img width="1536" height="864" alt="main-guide" src="https://github.com/user-attachments/assets/e524e40a-f458-4f9f-b785-e03dfe77618f" />
-</p>
+![Frostbolt Player 1.4.6 showing the programme guide and demo playback](assets/main-guide.webp)
 
-## Features
+## Made for everyday watching
 
-- Main Guide with a full EPG grid, plus Marathons (24/7) and Live Events views
-- Smart channel merging: SD / HD / backup lines under one row, with source switching
-- Automatic failover when a live feed stalls or drops
-- EPG time offsets globally, per provider, or per channel
-- Guide opens once the first visible channels are ready; the rest loads in the background
-- Channel scanner to probe stream health across your list
-- Setup wizard built for large playlists (thousands of channels)
-- Library blueprints to save / restore merges, names, and EPG links without exporting passwords
-- Bulk edit for favourites and custom lists
-- Frostbolt (blue) and Regrowth (green) themes
-- HLS playback with VLC fallback when Chromium cannot decode the stream
+- **A guide built around your channels.** Browse live TV, 24/7 channels and live events.
+- **One row, multiple sources.** Keep matching feeds together, switch sources, and recover automatically when a feed fails.
+- **Your playlist, organised.** Choose what appears in your guide, rename channels, and manage favourites and custom lists.
+- **Programme information that fits.** Choose guide data and adjust timings when a schedule is out of sync.
+- **Channel health checks.** Scan your list to find working and unavailable feeds.
+- **Fullscreen controls.** See now-and-next programmes and switch channels or sources without leaving the video.
+- **Two dark themes.** Frostbolt and Regrowth.
+- **Save your setup.** Export and restore your library with blueprints.
 
-<p align="center">
-<img width="1536" height="864" alt="on-screen-display" src="https://github.com/user-attachments/assets/37ce0997-d969-4a7f-8533-d21ab6120df3" />
-</p>
+![Frostbolt Player fullscreen controls over a different demo scene](assets/on-screen-display.webp)
 
-## Stack
+## Get started
 
-- Electron, React, TypeScript, Vite
-- hls.js / mpegts.js for in-app playback
-- Local VLC transcode path for unsupported codecs
-- Windows installer
+1. Download the Windows **Setup installer** from [Releases](https://github.com/mitchivin/frostbolt-player/releases/latest).
+2. Connect your Xtream-compatible provider.
+3. Choose your channels in the setup wizard and start watching.
 
-## Credits
+This repository contains public product information and release downloads. The application source is not published here.
+
+## About
 
 Built by [Mitch Ivin](https://mitchivin.com/).
 
-## Disclaimer
+Frostbolt is a media player. It does not supply channels, playlists or subscriptions. Use a provider you are authorised to access.
 
-Frostbolt is a media player. It does not host, provide, or resell channels or playlists. You bring your own legitimate provider credentials. Frostbolt does not endorse unauthorized use of copyrighted content.
-
-## License
-
-Public preview. Downloads at [frostbolt.xyz](https://frostbolt.xyz/).
+Screenshots show fictional demo channels in Frostbolt Player 1.4.6. Film stills: *Sintel*, © copyright [Blender Foundation](https://durian.blender.org/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
