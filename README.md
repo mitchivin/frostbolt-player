@@ -6,7 +6,7 @@ A desktop IPTV player for Windows. Browse your channels, see what's on, and watc
 
 Currently in public preview. Connect your own Xtream-compatible provider to get started.
 
-![Frostbolt Player 1.4.6 showing the programme guide and demo playback](assets/main-guide.webp)
+![Frostbolt Player 1.4.7 showing the programme guide and demo playback](assets/main-guide.webp)
 
 ## Features
 
@@ -35,4 +35,4 @@ Built by [Mitch Ivin](https://mitchivin.com/).
 
 Frostbolt is a media player. It does not supply channels, playlists or subscriptions. Use a provider you are authorised to access.
 
-Screenshots show fictional demo channels in Frostbolt Player 1.4.6. Film stills: *Sintel*, © copyright [Blender Foundation](https://durian.blender.org/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+Screenshots show fictional demo channels in Frostbolt Player 1.4.7. Film stills: *Sintel*, © copyright [Blender Foundation](https://durian.blender.org/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
