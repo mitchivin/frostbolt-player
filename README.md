@@ -4,7 +4,7 @@ A desktop IPTV player for Windows. Browse your channels, see what's on, and watc
 
 **[Download for Windows](https://github.com/mitchivin/frostbolt-player/releases/latest) · [Website](https://frostbolt.xyz/)**
 
-Current release: **1.4.17**. Frostbolt Player is free to use; connect your own Xtream-compatible provider to get started.
+Current release: **1.4.18**. Frostbolt Player is free to use; connect your own Xtream-compatible provider to get started.
 
 ![Frostbolt Player main guide with demo playback](assets/main-guide.webp)
 
