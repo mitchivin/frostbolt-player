@@ -6,7 +6,7 @@ A desktop IPTV player for Windows. Browse your channels, see what's on, and watc
 
 Current release: **1.4.20**. Frostbolt Player is free to use; connect your own Xtream-compatible provider to get started.
 
-![Frostbolt Player main guide with demo playback](assets/main-guide.webp)
+![Frostbolt Player main guide with a demo film playing](assets/main-guide.webp)
 
 ## Features
 
@@ -19,8 +19,6 @@ Current release: **1.4.20**. Frostbolt Player is free to use; connect your own X
 - **Two dark themes.** Frostbolt and Regrowth.
 - **Save your setup.** Export and restore your library with blueprints.
 
-![Frostbolt Player 1.4.7 showing the programme guide and demo playback](assets/program-guide.webp)
-
 ## Get started
 
 1. Download the Windows **Setup installer** from [Releases](https://github.com/mitchivin/frostbolt-player/releases/latest).
@@ -29,7 +27,7 @@ Current release: **1.4.20**. Frostbolt Player is free to use; connect your own X
 
 This repository contains public product information and release downloads. The application source is not published here.
 
-![Frostbolt Player fullscreen controls over a different demo scene](assets/on-screen-display.webp)
+![Frostbolt Player fullscreen playback with now-and-next controls](assets/on-screen-display.webp)
 
 ## About
 
@@ -37,7 +35,7 @@ Built by [Mitch Ivin](https://mitchivin.com/).
 
 Frostbolt is a media player. It does not supply channels, playlists or subscriptions. Use a provider you are authorised to access.
 
-Screenshots show fictional demo channels in Frostbolt Player 1.4.7. Film stills: *Sintel*, © copyright [Blender Foundation](https://durian.blender.org/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+Screenshots show fictional demo channels. Film stills: *Sintel* and *Tears of Steel*, © copyright [Blender Foundation](https://www.blender.org/about/projects/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 All three app screenshots are 1920 × 1080 and use the same mock-provider captures shown on the public website.
 
