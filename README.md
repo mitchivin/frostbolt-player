@@ -37,5 +37,5 @@ Frostbolt is a media player. It does not supply channels, playlists or subscript
 
 Screenshots show fictional demo channels. Film stills: *Sintel* and *Tears of Steel*, © copyright [Blender Foundation](https://www.blender.org/about/projects/), used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
-All three app screenshots are 1920 × 1080 and use the same mock-provider captures shown on the public website.
+Screenshots captured at 1920 × 1080.
 
